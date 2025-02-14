@@ -1,1 +1,8 @@
+title: "講義ページ"
+description: "講義資料やGoogle Colabリンクを掲載"
 theme: minima
+show_downloads: true  # ダウンロードボタンを表示
+navbar-links:
+  "ホーム": "/"
+  "講義ノート": "/notebooks"
+  "Colabで開く": "https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb"
