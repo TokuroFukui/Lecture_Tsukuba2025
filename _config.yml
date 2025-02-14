@@ -1,8 +1,9 @@
 title: "講義ページ"
-description: "講義資料やGoogle Colabリンクを掲載"
-theme: jekyll-theme-cayman
-show_downloads: true  # ダウンロードボタンを表示
-navbar-links:
-  "ホーム": "/"
-  "講義ノート": "/notebooks"
-  "Colabで開く": "https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb"
+description: "講義ノートとGoogle Colabリンク"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+paginate: 5
+paginate_path: "/page:num/"
