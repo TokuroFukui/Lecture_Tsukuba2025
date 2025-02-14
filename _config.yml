@@ -1,1 +1,14 @@
-theme: minima
+title: "講義ページ"
+description: "Jupyter NotebookとGoogle Colabのリンク"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      skin: "dark"
