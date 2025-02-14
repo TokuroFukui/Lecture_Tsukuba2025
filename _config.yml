@@ -1,6 +1,6 @@
 title: "講義ページ"
 description: "講義資料やGoogle Colabリンクを掲載"
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 show_downloads: true  # ダウンロードボタンを表示
 navbar-links:
   "ホーム": "/"
