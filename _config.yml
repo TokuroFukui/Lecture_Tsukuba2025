@@ -1,9 +1,8 @@
 title: "講義ページ"
-description: "講義ノートとGoogle Colabリンク"
+description: "Jupyter NotebookとGoogle Colabのリンク"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-paginate: 5
-paginate_path: "/page:num/"
+  - jekyll-include-cache  # 追加！
