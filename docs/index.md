@@ -24,7 +24,7 @@ custom_js:
 <script
  src="https://udify.app/embed.min.js"
  id="tAx3XVwPwJlsLzPu"
- async>
+ defer>
 </script>
 <style>
   #dify-chatbot-bubble-button {
