@@ -1,6 +1,8 @@
 main:
+  # - title: "福井徳朗のウェブサイト"
+  #   url: "<a href='https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html' target='_blank' rel='noopener noreferrer'>福井徳朗のウェブサイト</a>"
   - title: "福井徳朗のウェブサイト"
-    url: "<a href='https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html' target='_blank' rel='noopener noreferrer'>福井徳朗のウェブサイト</a>"
+    url: https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html
       # - title: "講義ノート"
   #   url: /notebooks/
   # - title: "Colabで開く"
