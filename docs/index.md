@@ -14,3 +14,24 @@ custom_js:
 # 📚 講義資料
 - [📥 Notebookをダウンロード](https://raw.githubusercontent.com/yourusername/repository/main/notebook.ipynb)
 - [🚀 Google Colabで開く](https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb)
+
+<!-- Dify chatbot -->
+<script>
+ window.difyChatbotConfig = {
+  token: 'tAx3XVwPwJlsLzPu'
+ }
+</script>
+<script
+ src="https://udify.app/embed.min.js"
+ id="tAx3XVwPwJlsLzPu"
+ async>
+</script>
+<style>
+  #dify-chatbot-bubble-button {
+    background-color: #1C64F2 !important;
+  }
+  #dify-chatbot-bubble-window {
+    width: 24rem !important;
+    height: 40rem !important;
+  }
+</style>
