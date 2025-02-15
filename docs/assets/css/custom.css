@@ -12,3 +12,22 @@
 #site-nav {
     display: none !important;
 }
+
+.custom-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: -50px;
+}
+
+.small-title {
+    font-size: 1.5rem;
+    display: block;
+    margin-top: 10px;
+}
+
+.tiny-title {
+    font-size: 1.0rem;
+    display: block;
+    margin-top: 10px;
+}
