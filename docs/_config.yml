@@ -26,5 +26,6 @@ defaults:
         overlay_image: /assets/images/nuclfig.jpg
         overlay_filter: 0.5
 
+baseurl: "/Lecture_Tsukuba2025"
 custom_js:
-  - /Lecture_Tsukuba2025/assets/js/chatbot.js
+  - "{{ site.baseurl }}/assets/js/chatbot.js"
