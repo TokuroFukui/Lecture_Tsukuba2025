@@ -4,37 +4,3 @@
     background-repeat: no-repeat !important;
     background-position: center center !important;
 }
-
-.site-title, .site-subtitle {
-    display: none !important;
-}
-
-#site-nav {
-    display: none !important;
-}
-
-.custom-header-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    color: white;
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-    z-index: 10;
-    width: 100%;
-}
-
-.small-title {
-    font-size: 1.5rem;
-    display: block;
-    margin-top: 10px;
-}
-
-.tiny-title {
-    font-size: 1.0rem;
-    display: block;
-    margin-top: 10px;
-}
