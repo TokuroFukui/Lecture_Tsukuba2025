@@ -1,5 +1,5 @@
 ---
-title: "講義ページ"
+title: "ハンズオンで学ぶ核力の基礎"
 layout: single
 sidebar:
   nav: "main"
