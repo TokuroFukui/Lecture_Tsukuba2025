@@ -1,9 +1,9 @@
 main:
-  - title: "ホーム"
-    url: /
-  - title: "講義ノート"
-    url: /notebooks/
-  - title: "Colabで開く"
-    url: https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb
+  # - title: "ホーム"
+  #   url: /
+  # - title: "講義ノート"
+  #   url: /notebooks/
+  # - title: "Colabで開く"
+  #   url: https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb
   - title: "GitHubリポジトリ"
-    url: https://github.com/yourusername/repository
+    url: https://github.com/TokuroFukui/Lecture_Tsukuba2025
