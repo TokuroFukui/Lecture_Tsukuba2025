@@ -1,6 +1,5 @@
 ---
-title: "筑波大学 集中講義 2025<br> 
-&mdash; ハンズオンで学ぶ核力の基礎 &mdash;"
+title: "原子核理論特講II 「ハンズオンで学ぶ核力の基礎」"
 layout: single
 sidebar:
   nav: "main"
