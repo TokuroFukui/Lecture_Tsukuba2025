@@ -20,4 +20,4 @@ defaults:
         nav: "main"
       header:
         overlay_image: /assets/images/nuclfig.jpg
-        overlay_filter: 0.3
+        overlay_filter: 0.5
