@@ -4,3 +4,11 @@
     background-repeat: no-repeat !important;
     background-position: center center !important;
 }
+
+.site-title {
+    display: none !important;
+}
+
+#site-nav {
+    display: none !important;
+}
