@@ -8,7 +8,7 @@ header:
   overlay_height: 800px
   overlay_filter: 0.5
 custom_js:
-  - "/assets/js/chatbot.js"
+  - "/Lecture_Tsukuba2025/assets/js/chatbot.js"
 ---
 
 # 📚 講義資料
