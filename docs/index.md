@@ -5,8 +5,8 @@ sidebar:
   nav: "main"
 header:
   overlay_image: /assets/images/nuclfig.jpg
-  overlay_height: 400px
-  overlay_filter: 0.3
+  overlay_height: 800px
+  overlay_filter: 0.5
 ---
 
 # 📚 講義資料
