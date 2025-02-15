@@ -35,15 +35,3 @@ custom_js:
     height: 40rem !important;
   }
 </style>
-
-<!-- New tab navigation -->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll('.site-nav a').forEach(link => {
-        if (link.hostname && link.hostname !== window.location.hostname) {
-            link.setAttribute("target", "_blank");
-            link.setAttribute("rel", "noopener noreferrer");
-        }
-    });
-});
-</script>
