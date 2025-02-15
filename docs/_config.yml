@@ -2,7 +2,7 @@ title: "講義ページ"
 description: "Jupyter NotebookとGoogle Colabのリンク"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
-favicon: "/assets/images/nucleus.ico"
+favicon: "/assets/images/favicon.ico"
 
 feed: false
 show_feed_links: false
