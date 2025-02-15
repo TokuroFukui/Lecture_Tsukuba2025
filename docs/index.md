@@ -17,7 +17,6 @@ custom_js:
     <span class="small-title">ハンズオンで学ぶ 核力の基礎</span>
     <span class="tiny-title">九州大学 基幹教育院 <a href="https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">福井徳朗</a></span>
 </div>
-</div>
 
 # スケジュール
 
