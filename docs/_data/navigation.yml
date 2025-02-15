@@ -1,7 +1,7 @@
 main:
-  - title: "福井徳朗のウェブサイト"
-    url: https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html
+  # - title: "福井徳朗のウェブサイト"
+  #   url: https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html
   - title: "GitHubリポジトリ"
     url: https://github.com/TokuroFukui/Lecture_Tsukuba2025
-  - title: "Google Colab"
-    url: https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb
+  # - title: "Google Colab"
+  #   url: https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb
