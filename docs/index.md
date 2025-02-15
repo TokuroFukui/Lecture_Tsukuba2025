@@ -1,6 +1,6 @@
 ---
 title: "原子核理論特講II 「ハンズオンで学ぶ核力の基礎」 <br>
-九州大学 基幹教育院 福井徳朗"
+<font size="-2">九州大学 基幹教育院 福井徳朗</font>"
 layout: single
 sidebar:
   nav: "main"
