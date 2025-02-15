@@ -7,8 +7,9 @@ header:
   overlay_image: /assets/images/nuclfig.jpg
   overlay_height: 800px
   overlay_filter: 0.5
+baseurl: "/reponame"
 custom_js:
-  - /assets/js/chatbot.js
+  - "{{ site.baseurl }}/assets/js/chatbot.js"
 ---
 
 # 📚 講義資料
