@@ -7,7 +7,7 @@ window.difyChatbotConfig = {
     var script = document.createElement('script');
     script.src = "https://udify.app/embed.min.js";
     script.id = "tAx3XVwPwJlsLzPu";
-    script.defer = true;
+    script.async = true;
     document.body.appendChild(script);
 })();
 
