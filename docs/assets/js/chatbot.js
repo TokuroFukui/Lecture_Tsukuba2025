@@ -1,4 +1,4 @@
-// Dify chatbot 
+// Dify chatbot
 window.difyChatbotConfig = {
     token: 'tAx3XVwPwJlsLzPu'
 };
