@@ -1,7 +1,7 @@
 main:
-  # - title: "ホーム"
-  #   url: /
-  # - title: "講義ノート"
+  - title: "福井徳朗のウェブサイト"
+    url: "<a href='https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html' target='_blank' rel='noopener noreferrer'>福井徳朗のウェブサイト</a>"
+      # - title: "講義ノート"
   #   url: /notebooks/
   # - title: "Colabで開く"
   #   url: https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb
