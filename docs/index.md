@@ -1,5 +1,5 @@
 ---
-title: "原子核理論特講II 「ハンズオンで学ぶ核力の基礎」"
+title: ""
 layout: single
 sidebar:
   nav: "main"
@@ -11,6 +11,12 @@ custom_js:
   - "/Lecture_Tsukuba2025/assets/js/chatbot.js"
 ---
 
+<div class="custom-title">
+    筑波大学 集中講義 2025
+    <br>
+    <span class="small-title">原子核理論特講II 「ハンズオンで学ぶ核力の基礎」</span>
+    <span class="tiny-title">九州大学 基幹教育院 <a href="https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">福井徳朗</a></span>
+</div>
 
 # スケジュール
 
