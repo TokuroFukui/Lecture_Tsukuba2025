@@ -2,6 +2,7 @@ title: "講義ページ"
 description: "Jupyter NotebookとGoogle Colabのリンク"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+favicon: "/assets/images/nucleus.ico"
 
 feed: false
 show_feed_links: false
@@ -26,6 +27,5 @@ defaults:
         overlay_image: /assets/images/nuclfig.jpg
         overlay_filter: 0.5
 
-baseurl: "/Lecture_Tsukuba2025"
 custom_js:
-  - "{{ site.baseurl }}/assets/js/chatbot.js"
+  - "/assets/js/chatbot.js"
