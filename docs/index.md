@@ -1,5 +1,6 @@
 ---
-title: "原子核理論特講II 「ハンズオンで学ぶ核力の基礎」"
+title: "原子核理論特講II<br>
+「ハンズオンで学ぶ核力の基礎」"
 layout: single
 sidebar:
   nav: "main"
