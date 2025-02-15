@@ -1,11 +1,13 @@
 main:
-  # - title: "福井徳朗のウェブサイト"
-  #   url: "<a href='https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html' target='_blank' rel='noopener noreferrer'>福井徳朗のウェブサイト</a>"
-  - title: "福井徳朗のウェブサイト"
-    url: https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html
-      # - title: "講義ノート"
-  #   url: /notebooks/
-  # - title: "Colabで開く"
-  #   url: https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb
+  - title: "福井徳朗ウェブサイト"
+    url: /external-site-personal
   - title: "GitHubリポジトリ"
-    url: https://github.com/TokuroFukui/Lecture_Tsukuba2025
+    url: /external-site-github
+    
+# main:
+#   - title: "福井徳朗のウェブサイト"
+#     url: https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html
+#   - title: "GitHubリポジトリ"
+#     url: https://github.com/TokuroFukui/Lecture_Tsukuba2025
+#   # - title: "Colabで開く"
+#   #   url: https://colab.research.google.com/github/yourusername/repository/blob/main/notebook.ipynb
