@@ -3,6 +3,7 @@ description: "Jupyter NotebookとGoogle Colabのリンク"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
+feed: false
 show_feed_links: false
 
 plugins:
