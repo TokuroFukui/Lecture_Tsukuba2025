@@ -1,6 +1,6 @@
 ---
 title: "原子核理論特講II 「ハンズオンで学ぶ核力の基礎」<br>
-九州大学 基幹教育院 <a href="https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html" target="_blank" rel="noreferrer noopener" class="wixui-rich-text__text">福井徳朗</a>"
+九州大学 基幹教育院 [福井徳朗](https://www.artsci.kyushu-u.ac.jp/~tokuro.fukui/index.html){:target="_blank"}"
 layout: single
 sidebar:
   nav: "main"
