@@ -47,8 +47,8 @@ custom_js:
 ## 1. 核力の外観と原子核の基本的性質
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
-- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
-- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb){:target="_blank"}
+- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/docs/assets/notebooks/1/dsq00b00_public.ipynb)
+- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/docs/assets/notebooks/1/dsq00b00_public.ipynb){:target="_blank"}
 <br>
 
 
