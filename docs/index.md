@@ -43,8 +43,8 @@ custom_js:
 <br>
 
 
----
-# 1. 核力の外観と原子核の基本的性質
+# 講義内容
+## 1. 核力の外観と原子核の基本的性質
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025_1_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
@@ -53,7 +53,7 @@ custom_js:
 
 
 ---
-# 2. Yukawaポテンシャルと重陽子
+## 2. Yukawaポテンシャルと重陽子
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025_2_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
@@ -62,7 +62,7 @@ custom_js:
 
 
 ---
-# 3. テンソル力と重陽子
+## 3. テンソル力と重陽子
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025_3_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
@@ -71,7 +71,7 @@ custom_js:
 
 
 ---
-# 4. 中間子論 I, 5. 中間子論 II
+## 4. 中間子論 I, 5. 中間子論 II
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025_4_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
@@ -80,21 +80,21 @@ custom_js:
 
 
 ---
-# 6. カイラル有効場理論と最近の話題
+## 6. カイラル有効場理論と最近の話題
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025_6_v1.pdf){:target="_blank"}
 <br>
 
 
 ---
-# 7. セミナー
+## 7. セミナー
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [セミナー資料](/assets/pdf/Tsukuba2025_seminar.pdf){:target="_blank"}
 <br>
 
 
 ---
-# レポート問題
+## レポート問題
 - [資料 (to be uploaded)](/assets/pdf/Tsukuba2025report.pdf){:target="_blank"}
 - 提出期限: **2025年3月yy日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
