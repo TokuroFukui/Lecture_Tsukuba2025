@@ -5,3 +5,5 @@ main:
     url: https://github.com/TokuroFukui/Lecture_Tsukuba2025
   # - title: "Google Colab"
   #   url: https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb
+  - title: "スケジュール"
+    url: "/schedule"
