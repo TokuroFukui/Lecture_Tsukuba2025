@@ -105,7 +105,8 @@ custom_js:
 ---
 # レポート問題
 - [資料: To be added](){:target="_blank"}
-- 提出起源: **2025年3月yy日**
+- 提出期限: **2025年3月yy日**
+- 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223)から提出
 <br>
 
 
