@@ -35,7 +35,7 @@ custom_js:
 
 | 2月26日 | 2月27日 | 2月28日 | 
 | --- | --- | --- |
-| [1. 核力の外観と原子核の基本的性質](#1-核力の外観と原子核の基本的性質) | [4. 中間子論 I](#4-中間子論-i-5-中間子論-ii) |  | 
+| [1. 核力の概観](#1-核力の概観) | [4. 中間子論 I](#4-中間子論-i-5-中間子論-ii) |  | 
 | [2. Yukawaポテンシャルと重陽子](#2-yukawaポテンシャルと重陽子) | [5. 中間子論 II](#4-中間子論-i-5-中間子論-ii) | [7. セミナー](#7-セミナー) | 
 | [3. テンソル力と重陽子](#3-テンソル力と重陽子) | [6. カイラル有効場理論と最近の話題](#6-カイラル有効場理論と最近の話題) |  | 
 
@@ -44,11 +44,11 @@ custom_js:
 
 
 # 講義内容
-## 1. 核力の外観と原子核の基本的性質
+## 1. 核力の概観
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
-- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/docs/assets/notebooks/1/dsq00b00_public.ipynb)
-- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/docs/assets/notebooks/1/dsq00b00_public.ipynb){:target="_blank"}
+- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/main/docs/assets/notebooks/1/dsq00b00_public.ipynb)
+- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb){:target="_blank"}
 <br>
 
 
