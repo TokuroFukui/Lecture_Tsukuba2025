@@ -17,6 +17,8 @@ custom_js:
 
 その他、参考書籍や範囲外の内容については[この資料](/assets/pdf/Tsukuba2025abstract.pdf){:target="_blank"}を確認してほしい。
 
+この講義の評価はレポートの提出から総合的に判断する。詳しくは[レポート問題](#レポート問題)をよく読んでほしい。
+
 <p>また、本ウェブページ右下のアイコン
 <span style="display: inline-block; vertical-align: middle; width: 24px; height: 24px;">
   <svg id="openIcon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -24,8 +26,6 @@ custom_js:
   </svg>
 </span>
 から、本講義に関するチャットボットが利用可能である。核力に関する質問をぜひ投げかけてみよう！</p>
-
-この講義の評価はレポートの提出から総合的に判断する。詳しくは[レポート問題](#レポート問題)をよく読んでほしい。
 
 <br>
 <br>
