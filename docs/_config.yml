@@ -15,6 +15,29 @@ plugins:
 
 sidebar:
   nav: "main"
+  custom_html: '<h3>📅 スケジュール</h3>
+  <table>
+    <tr>
+      <th>2月26日</th>
+      <th>2月27日</th>
+      <th>2月28日</th>
+    </tr>
+    <tr>
+      <td><a href="#1-核力の外観と原子核の基本的性質">1. 核力の外観</a></td>
+      <td><a href="#4-中間子論-i-5-中間子論-ii">4. 中間子論 I</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="#2-yukawaポテンシャルと重陽子">2. Yukawaポテンシャル</a></td>
+      <td><a href="#4-中間子論-i-5-中間子論-ii">5. 中間子論 II</a></td>
+      <td><a href="#7-セミナー">7. セミナー</a></td>
+    </tr>
+    <tr>
+      <td><a href="#3-テンソル力と重陽子">3. テンソル力</a></td>
+      <td><a href="#6-カイラル有効場理論と最近の話題">6. カイラル有効場理論</a></td>
+      <td></td>
+    </tr>
+  </table>'
 
 defaults:
   - scope:
