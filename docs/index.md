@@ -126,7 +126,7 @@ custom_js:
 
 
 ## 第四回「中間子論 I」, 第五回「中間子論 II」
-「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
+核力を1 つの中間子の交換で表現したポテンシャル(one-boson exchange potential; OBEP)について学ぶ。交換される中間子の性質(質量やスピン・アイソスピン) が核力にどのように反映されるのかに主眼を置く。また、重陽子をOBEP に基づいて記述する。
 - [講義資料](/assets/pdf/Tsukuba2025-4_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
 - [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb){:target="_blank"}
