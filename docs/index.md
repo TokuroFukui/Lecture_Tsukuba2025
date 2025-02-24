@@ -95,10 +95,28 @@ custom_js:
 
 
 ## 3. テンソル力
-「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
+核力の最も重要な非中心力であるテンソル力について学ぶ。具体的には、核子のスピン・アイソスピンを考慮して、テンソル力の基本的な性質に焦点を合わせる。また、陽子–中性子間に働くテンソル力を考え、チャネル結合法により現実的な重陽子の記述を試みる。
 - [講義資料](/assets/pdf/Tsukuba2025-3_v1.pdf){:target="_blank"}
-- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
-- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb){:target="_blank"}
+- <p>
+    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/3/gemtb00b05_public.ipynb" download>
+      <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
+        onmouseover="this.style.backgroundColor='#0F4CBE';"
+        onmouseout="this.style.backgroundColor='#1C64F2';">
+        Notebookをダウンロード
+      </button>
+    </a>
+  </p>
+
+- <p>
+    <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/3/gemtb00b05_public.ipynb" target="_blank" rel="noopener noreferrer">
+      <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
+        onmouseover="this.style.backgroundColor='#D89000';"
+        onmouseout="this.style.backgroundColor='#F9AB00';">
+        Google Colabで開く
+      </button>
+    </a>
+  </p>
+<br>
 <br>
 
 
