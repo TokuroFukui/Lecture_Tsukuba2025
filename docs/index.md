@@ -125,7 +125,7 @@ custom_js:
 <br>
 
 
-## 第四回「中間子論 I」 第五回「中間子論 II」
+## 第四回「中間子論 I」, 第五回「中間子論 II」
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-4_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
