@@ -58,7 +58,7 @@ custom_js:
 - <p>
     <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
       <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-        Google Colab で開く
+        Google Colabで開く
       </button>
     </a>
   </p>
