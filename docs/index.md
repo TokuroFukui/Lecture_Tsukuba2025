@@ -27,10 +27,10 @@ custom_js:
 </span>
 から、本講義に関するチャットボットが利用可能である。核力に関する質問をぜひ投げかけてみよう！</p>
 
-- 資料の誤りやサンプルコードのバグなどに関するフィードバック
-  - [GitHub Issues](https://github.com/TokuroFukui/Lecture_Tsukuba2025/issues)
-  - [GitHub Discussions](https://github.com/TokuroFukui/Lecture_Tsukuba2025/discussions)
-  - <a href="mailto:tokuro.fukui@artsci.kyushu-u.ac.jp?subject=筑波大学集中講義2025" target="_blank" rel="noopener noreferrer"> メール </a>
+資料の誤りやサンプルコードのバグなどに関するフィードバック:
+- [GitHub Issues](https://github.com/TokuroFukui/Lecture_Tsukuba2025/issues){:target="_blank"}
+- [GitHub Discussions](https://github.com/TokuroFukui/Lecture_Tsukuba2025/discussions){:target="_blank"}
+- <a href="mailto:tokuro.fukui@artsci.kyushu-u.ac.jp?subject=筑波大学集中講義2025" target="_blank" rel="noopener noreferrer"> メール </a>
 
 <br>
 <br>
