@@ -47,24 +47,17 @@ custom_js:
 ## 1. 核力の概観
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
-- [Notebookをダウンロード](https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb)
-- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb){:target="_blank"}
-<h2>📥 ノートブックのダウンロードと実行</h2>
-
-<!-- ダウンロードボタン -->
-<p>
+- <p>
   <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
     <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-      📄 dsq00b00_public.ipynb をダウンロード
+      Notebookをダウンロード
     </button>
   </a>
 </p>
-
-<!-- Google Colab で開くボタン -->
-<p>
+- <p>
   <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
     <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-      🚀 Google Colab で開く
+      Google Colab で開く
     </button>
   </a>
 </p>
