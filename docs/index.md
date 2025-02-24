@@ -48,19 +48,20 @@ custom_js:
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
 - <p>
-  <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
-    <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-      Notebookをダウンロード
-    </button>
-  </a>
-</p>
+    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
+      <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
+        Notebookをダウンロード
+      </button>
+    </a>
+  </p>
+
 - <p>
-  <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
-    <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-      Google Colab で開く
-    </button>
-  </a>
-</p>
+    <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
+      <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
+        Google Colab で開く
+      </button>
+    </a>
+  </p>
 <br>
 
 
