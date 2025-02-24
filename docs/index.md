@@ -49,6 +49,25 @@ custom_js:
 - [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
 - [Notebookをダウンロード](https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb)
 - [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb){:target="_blank"}
+<h2>📥 ノートブックのダウンロードと実行</h2>
+
+<!-- ダウンロードボタン -->
+<p>
+  <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
+    <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
+      📄 dsq00b00_public.ipynb をダウンロード
+    </button>
+  </a>
+</p>
+
+<!-- Google Colab で開くボタン -->
+<p>
+  <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
+    <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
+      🚀 Google Colab で開く
+    </button>
+  </a>
+</p>
 <br>
 
 
