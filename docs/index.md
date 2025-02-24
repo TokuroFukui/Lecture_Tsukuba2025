@@ -73,7 +73,7 @@ custom_js:
 核力の中間子論について、その導入部分を学ぶ。具体的には、中間子の交換によって核子間の相互作用が湯川ポテンシャルで表されることに焦点を合わせる。また、変分原理に基づく束縛問題の解法を習得することを目指す。
 - [講義資料](/assets/pdf/Tsukuba2025-2_v1.pdf){:target="_blank"}
 - <p>
-    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
+    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/2/gemtb00a04_public.ipynb" download>
       <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
         onmouseover="this.style.backgroundColor='#0F4CBE';"
         onmouseout="this.style.backgroundColor='#1C64F2';">
@@ -83,7 +83,7 @@ custom_js:
   </p>
 
 - <p>
-    <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/dsq00b00_public.ipynb" target="_blank" rel="noopener noreferrer">
+    <a href="https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/docs/assets/notebooks/1/gemtb00a04_public.ipynb" target="_blank" rel="noopener noreferrer">
       <button style="background-color: #F9AB00; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
         onmouseover="this.style.backgroundColor='#D89000';"
         onmouseout="this.style.backgroundColor='#F9AB00';">
