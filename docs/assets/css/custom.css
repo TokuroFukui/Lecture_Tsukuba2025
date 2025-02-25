@@ -1,5 +1,6 @@
 .page__hero {
-    height: 1600px !important;
+    min-height: 800px !important;
+    height: 800px !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
