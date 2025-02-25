@@ -134,13 +134,12 @@ custom_js:
 
 
 ## 第六回「カイラル有効場理論と最近の話題」
-「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
 - [講義資料](/assets/pdf/Tsukuba2025-6_v1.pdf){:target="_blank"}
 <br>
 
 
 ## 第七回 セミナー
-「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
+"Uncovering the mechanism of chiral three-nucleon force in driving spin-orbit splitting"
 - [セミナー資料](/assets/pdf/Tsukuba2025seminar.pdf){:target="_blank"}
 <br>
 
