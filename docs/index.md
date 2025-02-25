@@ -139,7 +139,8 @@ custom_js:
 
 
 ## レポート問題
-- [資料 (to be uploaded)](/assets/pdf/Tsukuba2025-report.pdf){:target="_blank"}
+- [資料 (**暫定版**)](/assets/pdf/Tsukuba2025-report.pdf){:target="_blank"}
+  - 講義終了後に更新予定
 - 提出期限: **2025年3月xx日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
 <br>
