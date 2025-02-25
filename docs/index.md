@@ -5,7 +5,7 @@ layout: single
 sidebar:
   nav: "main"
 header:
-  overlay_image: /assets/images/IMG_0213.jpg
+  overlay_image: /assets/images/TomonagaTsukuba.jpg
   overlay_filter: 0.5
 custom_js:
   - "/Lecture_Tsukuba2025/assets/js/chatbot.js"
