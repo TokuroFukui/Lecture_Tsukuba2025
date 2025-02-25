@@ -1,4 +1,4 @@
-.page__hero {
+.page__hero--overlay {
     min-height: 800px !important;
     height: 800px !important;
     background-size: cover !important;
