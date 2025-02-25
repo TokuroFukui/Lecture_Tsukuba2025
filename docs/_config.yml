@@ -2,7 +2,7 @@ title: "筑波大学 集中講義2025 by 福井徳朗"
 description: "講義資料とサンプルコード"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
-favicon: "/assets/images/favicon.ico"
+favicon: "/Lecture_Tsukuba2025/assets/images/favicon.ico"
 
 feed: false
 show_feed_links: false
@@ -24,7 +24,7 @@ defaults:
       sidebar:
         nav: "main"
       header:
-        overlay_image: /assets/images/IMG_0213.jpg
+        overlay_image: "/Lecture_Tsukuba2025/assets/images/IMG_0213.jpg"
         overlay_filter: 0.5
 
 custom_js:
