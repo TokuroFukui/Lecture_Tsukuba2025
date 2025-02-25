@@ -6,7 +6,7 @@ sidebar:
   nav: "main"
 header:
   overlay_image: /assets/images/IMG_0213.jpg
-  overlay_height: 800px
+  overlay_height: 1600px
   overlay_filter: 0.5
 custom_js:
   - "/Lecture_Tsukuba2025/assets/js/chatbot.js"
