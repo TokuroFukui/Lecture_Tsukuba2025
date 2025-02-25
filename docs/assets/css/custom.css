@@ -1,7 +1,12 @@
 .page__hero--overlay {
-    min-height: 800px !important;
-    height: 800px !important;
+    min-height: 400px !important;
+    height: 400px !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
 }
