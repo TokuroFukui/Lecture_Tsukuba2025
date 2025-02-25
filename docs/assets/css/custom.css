@@ -1,6 +1,6 @@
 .page__hero--overlay {
-    min-height: 400px !important;
-    height: 400px !important;
+    min-height: 300px !important;
+    height: 300px !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center center !important;
