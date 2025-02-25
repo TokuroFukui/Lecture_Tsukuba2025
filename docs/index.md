@@ -126,26 +126,21 @@ custom_js:
 
 ## 第四回「中間子論 I」, 第五回「中間子論 II」
 核力を1 つの中間子の交換で表現したポテンシャル(one-boson exchange potential; OBEP)について学ぶ。交換される中間子の性質(質量やスピン・アイソスピン) が核力にどのように反映されるのかに主眼を置く。また、重陽子をOBEP に基づいて記述する。
-- [講義資料](/assets/pdf/Tsukuba2025-4_v1.pdf){:target="_blank"}
-- [Notebookをダウンロード](https://raw.githubusercontent.com/TokuroFukui/Lecture_Tsukuba2025/main/notebook.ipynb)
-- [Google Colabで開く](https://colab.research.google.com/github/TokuroFukui/Lecture_Tsukuba2025/blob/main/notebook.ipynb){:target="_blank"}
 <br>
 
 
 ## 第六回「カイラル有効場理論と最近の話題」
-- [講義資料](/assets/pdf/Tsukuba2025-6_v1.pdf){:target="_blank"}
 <br>
 
 
 ## 第七回 セミナー
 "Uncovering the mechanism of chiral three-nucleon force in driving spin-orbit splitting"
-- [セミナー資料](/assets/pdf/Tsukuba2025seminar.pdf){:target="_blank"}
 <br>
 
 
 ## レポート問題
-- [資料 (to be uploaded)](/assets/pdf/Tsukuba2025report.pdf){:target="_blank"}
-- 提出期限: **2025年3月yy日**
+- [資料 (to be uploaded)](/assets/pdf/Tsukuba2025-report.pdf){:target="_blank"}
+- 提出期限: **2025年3月xx日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
 <br>
 
