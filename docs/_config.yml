@@ -32,4 +32,4 @@ custom_js:
   - "/Lecture_Tsukuba2025/assets/js/custom.js"
 
 custom_css:
-  - /Lecture_Tsukuba2025/assets/css/custom.css
+  - "/Lecture_Tsukuba2025/assets/css/custom.css"
