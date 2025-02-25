@@ -24,7 +24,7 @@ defaults:
       sidebar:
         nav: "main"
       header:
-        overlay_image: /assets/images/nuclfig.jpg
+        overlay_image: /assets/images/IMG_0213.jpg
         overlay_filter: 0.5
 
 custom_js:
