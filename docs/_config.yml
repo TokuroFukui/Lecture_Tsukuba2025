@@ -24,7 +24,7 @@ defaults:
       sidebar:
         nav: "main"
       header:
-        overlay_image: "/Lecture_Tsukuba2025/assets/images/IMG_0213.jpg"
+        overlay_image: "/Lecture_Tsukuba2025/assets/images/TomonagaTsukuba.jpg"
         overlay_filter: 0.5
 
 custom_js:
