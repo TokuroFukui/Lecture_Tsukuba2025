@@ -128,7 +128,7 @@ custom_js:
 核力を1 つの中間子の交換で表現したポテンシャル(one-boson exchange potential; OBEP)について学ぶ。交換される中間子の性質(質量やスピン・アイソスピン) が核力にどのように反映されるのかに主眼を置く。また、重陽子をOBEP に基づいて記述する。
 - [講義資料](/assets/pdf/Tsukuba2025-4_v1.pdf){:target="_blank"}
 - <p>
-    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/4-5/gemtb01d01_public.ipynb" download>
+    <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/4-5/gemtb01d01_public.zip" download>
       <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
         onmouseover="this.style.backgroundColor='#0F4CBE';"
         onmouseout="this.style.backgroundColor='#1C64F2';">
