@@ -391,6 +391,8 @@ def me_obep(idxmx, nbmx, bmn, rho):
         V00, V22, V02: list of matrix elements for visualization
     """
 
+    print("Mesons included:", meson_list)
+
     ## Arrays
     Hij = np.zeros((idxmx, idxmx)) # Hamiltonian-matrix elements
     V00 = np.zeros((nbmx, nbmx))   # For visualization
