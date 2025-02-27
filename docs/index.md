@@ -151,6 +151,8 @@ custom_js:
 
 
 ## 第六回「カイラル有効場理論と最近の話題」
+- [講義資料](/assets/pdf/Tsukuba2025-6_v1.pdf){:target="_blank"}
+
 <br>
 
 
