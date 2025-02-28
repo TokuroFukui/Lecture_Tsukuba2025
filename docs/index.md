@@ -158,13 +158,14 @@ custom_js:
 
 ## 第七回 セミナー
 "Uncovering the mechanism of chiral three-nucleon force in driving spin-orbit splitting"
+- [セミナー資料](/assets/pdf/Tsukuba2025seminar.pdf){:target="_blank"}
 <br>
 
 
 ## レポート問題
 - [資料 (**暫定版**)](/assets/pdf/Tsukuba2025-report_v1.pdf){:target="_blank"}
   - 講義終了後に更新予定
-- 提出期限: **2025年3月xx日**
+- 提出期限: **2025年3月10日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
 <br>
 
