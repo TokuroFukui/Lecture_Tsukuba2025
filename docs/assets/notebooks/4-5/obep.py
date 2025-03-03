@@ -13,62 +13,10 @@ from physconst import pi, hc, m_av
 import gem_nt
 
 
-#-------------------
-# Parameters of OBEP
-#-------------------
-## List of mesons to be considered
-meson_list = "p" # pi
-# meson_list = "ps" # pi, sigma
-# meson_list = "pro" # pi, rho, omega
-# meson_list = "psro" # pi, sigma, rho, omega
-# meson_list = "pesrod" # pi, eta, sigma, rho, omega, delta
-
-## Parameters from Bonn-OBEPR-A' (modified)
-# meson_raw = {
-#     "p": [138.03, 14.9   , 1.3e3], # pi
-#     "e": [548.8 ,  2.0   , 1.5e3], # eta
-#     "s": [710.0 , 17.6205, 1.471e3], # sigma (f0)
-#     "r": [769.0 ,  1.2   , 1.05e3], # rho
-#     "o": [782.6 , 25.0   , 1.55e3], # omega
-#     "d": [983.0 ,  2.742 , 2.0e3]  # delta (a0)
-# }
-
-## Parameters from Yamaguchi et al., PRD 84, 014032 (2011)
-##  [m, g^2/(4pi), Lambda], m and Lambda are in MeV
-meson_raw = {
-    ## pi only, modified Yamaguchi
-    "p": [137.27, 13.6 , 832.3], # pi
-
-    # ## pi, sigma, modified Yamaguchi
-    # "p": [137.27, 13.6   , 686.7], # pi
-    # "s": [550.0 ,  7.7823, 686.7], # sigma
-
-    # ## pi, rho, omega, modified Yamaguchi
-    # "p": [137.27, 13.6 , 846.3], # pi
-    # "r": [769.9 ,  0.84, 846.3], # rho
-    # "o": [781.94, 20.0, 846.3], # omega
-
-    # ## pi, sigma, rho, omega, modified Yamaguchi
-    # "p": [137.27, 13.6   , 713.58], # pi
-    # "s": [550.0 ,  7.7823, 713.58], # sigma
-    # "r": [769.9 ,  0.84  , 713.58], # rho
-    # "o": [781.94, 20.0   , 713.58], # omega
-}
-
-## MeV to fm^{-1}
-meson_param = {key: [val[0] / hc, val[1], val[2] / hc] 
-               for key, val in meson_raw.items()}
-
-meson_param2 = {
-    "r": [6.1], # f_rho / g_rho
-    "o": [0.0], # f_omega / g_omega
-}
-
-    
 #---------------------
 # Get meson parameters
 #---------------------
-def get_mesoninfo(meson):
+def get_mesoninfo(meson, meson_bundle):
     """
     Args:
         meson: string, a character from "pesrod"
@@ -79,6 +27,7 @@ def get_mesoninfo(meson):
         Lam: float, cutoff momentum
     """
     
+    meson_param = meson_bundle["meson_param"]
     mass = meson_param[meson][0]
     gsq  = meson_param[meson][1]
     Lam  = meson_param[meson][2]
@@ -244,7 +193,7 @@ def me_s(mass, Lam, l, nuij, nuj):
 #---------------------------------
 # Matrix elements for vector meson
 #---------------------------------
-def me_v(meson, mass, Lam, li, lj, nuij, nuj):
+def me_v(meson, mass, Lam, li, lj, nuij, nuj, meson_bundle):
     """
     Args:
         meson: string, a character from "pesrod"
@@ -262,6 +211,7 @@ def me_v(meson, mass, Lam, li, lj, nuij, nuj):
     ## Common values
     mm = (mass / m_av)**2
     Lam2m2 = Lam**2 - mass**2
+    meson_param2 = meson_bundle["meson_param2"]
     fong = meson_param2[meson][0] # f_v / g_v
     gij_2lp1 = g_ninteg(Lam, nuij, 2 * li + 1)
     gg1_2lm1 = gg1(mass, Lam, 3, nuij)
@@ -340,7 +290,7 @@ def tautau(meson):
 #------------------------------
 # Matrix elements of each meson
 #------------------------------
-def me_pssv(meson, li, lj, nui, nuj):
+def me_pssv(meson, li, lj, nui, nuj, meson_bundle):
     """
     Args:
         meson: string, a character from "pesrod"
@@ -352,7 +302,7 @@ def me_pssv(meson, li, lj, nui, nuj):
         wC, wSO, wT: float, matrix elements for central, spin-orbit, tensor forces
     """
 
-    mass, gsq, Lam = get_mesoninfo(meson)
+    mass, gsq, Lam = get_mesoninfo(meson, meson_bundle)
     fac = gsq * tautau(meson)
     nuij = nui + nuj
         
@@ -368,7 +318,7 @@ def me_pssv(meson, li, lj, nui, nuj):
         wT  = 0.0
         
     elif meson in ("r", "o"): # Vector meson
-        wC, wSO, wT = me_v(meson, mass, Lam, li, lj, nuij, nuj)
+        wC, wSO, wT = me_v(meson, mass, Lam, li, lj, nuij, nuj, meson_bundle)
         
     return fac, wC, wSO, wT
 
@@ -376,7 +326,7 @@ def me_pssv(meson, li, lj, nui, nuj):
 #------------------------
 # Matrix elements of OBEP
 #------------------------
-def me_obep(idxmx, nbmx, bmn, rho):
+def me_obep(idxmx, nbmx, bmn, rho, meson_bundle):
     """
     Args:
         idxmx: int, size of matrices (2 * nbmx)
@@ -391,6 +341,7 @@ def me_obep(idxmx, nbmx, bmn, rho):
         V00, V22, V02: list of matrix elements for visualization
     """
 
+    meson_list = meson_bundle["meson_list"]
     print("Mesons included:", meson_list)
 
     ## Arrays
@@ -415,7 +366,7 @@ def me_obep(idxmx, nbmx, bmn, rho):
             
             Vij_C = 0.0; Vij_SO = 0.0; Vij_T = 0.0
             for meson in meson_list:
-                fac, wC, wSO, wT = me_pssv(meson, li, lj, nui, nuj)
+                fac, wC, wSO, wT = me_pssv(meson, li, lj, nui, nuj, meson_bundle)
                 Vij_C  += fac * wC
                 Vij_SO += fac * wSO
                 Vij_T  += fac * wT
