@@ -50,7 +50,7 @@ custom_js:
 # 講義内容
 ## 第一回「核力の概観」
 「核力の到達距離」、「引力の強さ」、「斥力芯」などを学ぶ。ここでは精密な議論ではなく、実験事実や井戸型ポテンシャルを使った定性的な側面に焦点を合わせる。
-- [講義資料](/assets/pdf/Tsukuba2025-1_v1.pdf){:target="_blank"}
+- [講義資料](/assets/pdf/Tsukuba2025-1_v2.pdf){:target="_blank"}
 - <p>
     <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/1/dsq00b00_public.ipynb" download>
       <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
@@ -100,7 +100,7 @@ custom_js:
 
 ## 第三回「テンソル力」
 核力の最も重要な非中心力であるテンソル力について学ぶ。具体的には、核子のスピン・アイソスピンを考慮して、テンソル力の基本的な性質に焦点を合わせる。また、陽子–中性子間に働くテンソル力を考え、チャネル結合法により現実的な重陽子の記述を試みる。
-- [講義資料](/assets/pdf/Tsukuba2025-3_v1.pdf){:target="_blank"}
+- [講義資料](/assets/pdf/Tsukuba2025-3_v2.pdf){:target="_blank"}
 - <p>
     <a href="https://TokuroFukui.github.io/Lecture_Tsukuba2025/assets/notebooks/3/gemtb00b05_public.ipynb" download>
       <button style="background-color: #1C64F2; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; transition: background-color 0.3s;"
@@ -163,8 +163,7 @@ custom_js:
 
 
 ## レポート問題
-- [資料 (**暫定版**)](/assets/pdf/Tsukuba2025-report_v1.pdf){:target="_blank"}
-  - 講義終了後に更新予定
+- [資料](/assets/pdf/Tsukuba2025-report_v2.pdf){:target="_blank"}
 - 提出期限: **2025年3月10日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
 <br>
