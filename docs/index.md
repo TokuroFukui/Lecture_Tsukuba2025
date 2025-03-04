@@ -1,7 +1,6 @@
 ---
 title: "原子核理論特講II<br>
-「ハンズオンで学ぶ核力の基礎」<br>
-<span style="font-size: 50%">2025年2月26&ndash;28日</span>"
+「ハンズオンで学ぶ核力の基礎」"
 layout: single
 sidebar:
   nav: "main"
@@ -37,6 +36,7 @@ custom_js:
 
     
 # スケジュール
+## 2025年2月26&ndash;28日
 
 | 2月26日 | 2月27日 | 2月28日 | 
 | --- | --- | --- |
@@ -155,11 +155,14 @@ custom_js:
 - [講義資料](/assets/pdf/Tsukuba2025-6_v2.pdf){:target="_blank"}
 
 <br>
+<br>
 
 
 ## 第七回 セミナー
 "Uncovering the mechanism of chiral three-nucleon force in driving spin-orbit splitting"
 - [セミナー資料](/assets/pdf/Tsukuba2025seminar.pdf){:target="_blank"}
+
+<br>
 <br>
 
 
@@ -167,6 +170,8 @@ custom_js:
 - [資料](/assets/pdf/Tsukuba2025-report_v2.pdf){:target="_blank"}
 - 提出期限: **2025年3月10日**
 - 提出方法: [manaba](https://manaba.tsukuba.ac.jp/ct/course_3632223){:target="_blank"}から提出
+
+<br>
 <br>
 
 
