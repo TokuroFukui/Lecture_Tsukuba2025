@@ -1,7 +1,7 @@
 ---
 title: "原子核理論特講II<br>
 「ハンズオンで学ぶ核力の基礎」<br>
-2025年2月26&ndash;28日"
+<span style="font-size: 50%">2025年2月26&ndash;28日</span>"
 layout: single
 sidebar:
   nav: "main"
