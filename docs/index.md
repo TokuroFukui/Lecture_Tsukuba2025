@@ -178,12 +178,12 @@ custom_js:
 <!-- Dify chatbot -->
 <script>
  window.difyChatbotConfig = {
-  token: 'tAx3XVwPwJlsLzPu'
+  token: 'KVzU2coLdTzyT2Wt'
  }
 </script>
 <script
  src="https://udify.app/embed.min.js"
- id="tAx3XVwPwJlsLzPu"
+ id="KVzU2coLdTzyT2Wt"
  defer>
 </script>
 <style>
